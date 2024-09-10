@@ -1,2 +1,3 @@
-# crop_yield_prediction_fertilizer
-The Fertilizer Prediction Project leverages machine learning to classify fertilizers based on nutrient content, utilizing a Random Forest Classifier for high accuracy. The project involves data preprocessing, model training, and hyperparameter tuning, providing precise fertilizer recommendations to optimize crop yields.
+# Fertilizer Prediction Project
+
+The Fertilizer Prediction Project utilizes machine learning to classify fertilizers based on their nutrient content (N, P, K) using a Random Forest Classifier. This project involves data preprocessing, feature scaling, model training, and hyperparameter tuning to ensure high prediction accuracy. The trained model is saved for practical use, providing precise fertilizer recommendations aimed at optimizing crop yields. By offering a reliable tool to improve fertilizer usage, the project contributes to enhanced agricultural efficiency and productivity.
